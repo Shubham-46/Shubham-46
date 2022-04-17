@@ -24,4 +24,10 @@ If you have a dream 🎯, then you also have work to do. Overcome Distractions a
 
     ⚡ Fun fact Code and Anime
 
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/Shubham63636659" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@Prem_mourya" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shubham-mishra-ab74581b3/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chandan-mourya-359323230/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_shubham_1542/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_prem_mourya" height="30" width="40" /></a>
+<a href="https://medium.com/@anandchaurasia008" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@kingbond470" height="30" width="40" /></a>
+</p>
