@@ -6,7 +6,7 @@ In my free time, while I'm not coding, I enjoy playing sports, video games 👾 
 
 If you have a dream 🎯, then you also have work to do. Overcome Distractions and focus. One hour of deep, uninterrupted work is more valuable than an entire day of giving half the effort. When we strive to become better than we are, everything around us becomes better too.
 
-anmolroan
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shubham-46&label=Profile%20views&color=0e75b6&style=flat" alt="anmolroan" /> </p>
 
     🔭 I’m currently working & learning on DSA
 
