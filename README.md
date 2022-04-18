@@ -24,7 +24,7 @@ If you have a dream 🎯, then you also have work to do. Overcome Distractions a
 
     ⚡ Fun fact Code and Anime
     
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shubham-46&no-frame=true&margin-w=35&theme=buddhism" alt="Shubham-46" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
