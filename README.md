@@ -23,8 +23,6 @@ If you have a dream 🎯, then you also have work to do. Overcome Distractions a
 
     👨‍💻 All of my projects are available at Explore
 
-    📝 I write articles on Medium - chandanmourya4786
-
     💬 Ask me about Web Developement and security
 
     ⚡ Fun fact Code and Anime
