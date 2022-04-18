@@ -46,3 +46,7 @@ If you have a dream 🎯, then you also have work to do. Overcome Distractions a
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
   
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+    
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham-46" alt="Shubham-46" /></p>
+ ### 📈 GitHub Activity:
+  <a href="https://github.com/Shubham-46/github-readme-activity-graph"><img alt="Shubham-46's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Shubham-46&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
