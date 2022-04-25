@@ -11,8 +11,7 @@ If you have a dream 🎯, then you also have work to do. Overcome Distractions a
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shubham-46&label=Profile%20views&color=0e75b6&style=flat" alt="anmolroan" /> </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Shubham-46" alt="Shubham-46" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><span></span><img src="https://github-profile-trophy.vercel.app/?username=Shubham-46" alt="Shubham-46" /></a> </p>
 
     🔭 I’m currently working & learning on DSA
 
