@@ -65,6 +65,7 @@ When we strive to become better than we are, everything around us becomes better
   <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-46&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+<br>
 
 [![coffee](https://user-images.githubusercontent.com/81063456/160665169-7d4ae351-ed39-4216-a071-d95232e8d88a.svg)](https://www.buymeacoffee.com/mishrashubham)
 
