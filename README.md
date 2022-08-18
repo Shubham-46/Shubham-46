@@ -23,7 +23,7 @@ When we strive to become better than we are, everything around us becomes better
 
   🌱 I’m currently learning **Java Backend**
 
-  👯 I’m looking to collaborate on **In Java Backend Projects**
+  👯 I’m looking to collaborate on **In Web Development Projects**
 
   🤝 I’m looking for help with **Competitive Programming**
 
