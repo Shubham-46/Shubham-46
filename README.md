@@ -56,6 +56,15 @@ When we strive to become better than we are, everything around us becomes better
 ![Teck Stack](https://user-images.githubusercontent.com/81063456/169705256-ad8945ba-0b55-4c23-aad9-822dd97e3d4b.png)
 
 
+<p><summary>🔥 Streak stats</summary></p>
+<p>
+    <img title="Streak stats" alt="Shubham's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham-46&theme=monokai-metallian&hide_border=true"/>
+</p>
+
+  
+</p>
+
+
 <!-- GIT stats -->
 
 <div align="center">
